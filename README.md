@@ -1,6 +1,6 @@
 # Power-System Datasets for Nodal Carbon Emission Factor Estimation
 
-Version: 1.0.0
+Version: 1.0.1
 
 This repository contains the author-supplied simulation data matrices for
 nodal carbon emission factor estimation in two power-system cases. The

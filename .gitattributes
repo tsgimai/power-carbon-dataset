@@ -1,0 +1,2 @@
+# Preserve original dataset bytes, including CSV line endings.
+data/** -text
