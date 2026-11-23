@@ -1,0 +1,36 @@
+{
+  "title": "Power-System Datasets for Nodal Carbon Emission Factor Estimation",
+  "version": "1.0.0",
+  "prepared_date": "2026-11-23",
+  "dataset_kind": "author-supplied simulation datasets",
+  "files": [
+    {
+      "path": "data/5000张图.xlsx",
+      "bytes": 20436226,
+      "sha256": "ed1a11fc68385d22e0f0b012ddda3e6827590c5a120e468d7e9ebaf4d9c4eccc",
+      "matrix_shape": [
+        114,
+        15000
+      ],
+      "header": false,
+      "scenario_column_group_size": 3,
+      "scenarios": 5000,
+      "source_bytes_preserved": true
+    },
+    {
+      "path": "data/carbon_flow_samples.csv",
+      "bytes": 25557032,
+      "sha256": "ef032902b4ab39d2312ed8928856a8cae538f638e64fb7723dea262a4be02b34",
+      "matrix_shape": [
+        118,
+        15000
+      ],
+      "header": false,
+      "scenario_column_group_size": 3,
+      "scenarios": 5000,
+      "source_bytes_preserved": true
+    }
+  ],
+  "model_training_performed": false,
+  "numerical_results_modified": false
+}
